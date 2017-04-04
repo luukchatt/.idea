@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="22333_nieuwsbrief@localhost" uuid="78c020cb-cead-41f8-9ca6-183ee50d218e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>22333@ma-cloud.nl</user-name>
+    </data-source>
+    <data-source name="@localhost" uuid="16ea5a7e-cea0-4be4-887c-3677c565a1fc">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
